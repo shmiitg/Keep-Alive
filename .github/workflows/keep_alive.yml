@@ -10,4 +10,4 @@ jobs:
 
     steps:
       - name: Send Ping to Backend
-        run: curl -X GET https://vocabrain-backend-vdke.onrender.com
+        run: curl -X GET https://vocabrain-backend.onrender.com
